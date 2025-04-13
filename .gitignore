@@ -1,0 +1,5 @@
+.env
+
+# Log Files
+*.log
+*.out
