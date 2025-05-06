@@ -3,3 +3,5 @@
 # Log Files
 *.log
 *.out
+
+pre-processed/
