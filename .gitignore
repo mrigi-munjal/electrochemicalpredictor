@@ -1,2 +1,9 @@
-*.json
 
+.env
+
+# Log Files
+*.log
+*.out
+
+pre-processed/
+*.json

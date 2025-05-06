@@ -1,0 +1,6 @@
+# PyTorch and related libraries
+torch
+torchvision
+transformers
+torch-geometric
+numpy
