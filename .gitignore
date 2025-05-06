@@ -1,3 +1,4 @@
+
 .env
 
 # Log Files
@@ -5,3 +6,4 @@
 *.out
 
 pre-processed/
+*.json
